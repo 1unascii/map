@@ -4,7 +4,7 @@
     <title>Geocoding service</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <link rel="stylesheet" href="geocoder/css/default.css" type="text/css">
+    <link rel="stylesheet" href="css/default.css" type="text/css">
   </head>
   <body>
       
@@ -16,7 +16,7 @@
       var errors = [];
       var lat;
       var lng;
-      var center;
+      var coords = [];
       var myHome;
       var wickedLocation;
 
@@ -42,31 +42,28 @@
               lat = String(results[0].geometry.location.lat());
               lng = String(results[0].geometry.location.lng());
               coords[i] = [lat, lng];
-              if(i==0){
-
-              }
+              //alert("test");
             } else {
               alert('Geocode was not successful for the following reason: ' + status);
             }
           });
         }  
 
-        window.onload = function() {
-          myHome = { "lat" : lat , "lng" : lng };
-          wickedLocation = new google.maps.LatLng( myHome.lat, myHome.lng );
-          var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 8,
-            center: wickedLocation
-          });
-        };
-        
-        
+        //alert(lat);
+        alert(lng);
+        myHome = { "lat" : lat , "lng" : lng };
+        wickedLocation = new google.maps.LatLng( myHome.lat, myHome.lng );
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 8,
+          center: wickedLocation
+        });
       }
 
      
      
 
     </script> <!--INIT MAP-->
-    <?php include "google-api-key.php"; ?> <!--GOOGLE MAP API-->
+    <?php include "../google-api-key.php"; ?> <!--GOOGLE MAP API-->
   </body>
 </html>
