@@ -1,0 +1,85 @@
+Customer Information:
+Name:Dell Marketing, LP   Account Number: DELLQXS   Vendor Number: 
+Workorder: WP06102533 SITE CODE: 000177414404
+CAD #: 000177414404
+Customer Address:    Map it (Google)
+WWTS
+121 W Gilman St
+Apt 703
+MADISON, WI 53703    Gas and Traffic
+Contact Name: Andressa Souza 
+Contact Phone: 6086424313
+Service Information:
+Region: X3000 - Area: X3100 - District: X3120 - Branch: 328
+Employee #: 12712
+Empl. Name: Weiner, Joseph (F2)
+
+Call Dates:
+Received: 2015-06-10 17:06:00.0
+ETA: 2015-06-11 18:00:00.0
+Accepted: 2015-06-11 07:26:00.0
+Dispatched: 2015-06-11 07:26:00.0
+Last Call Closed for this Site: WP05273015
+Call Codes:
+Status:DS 
+Type (Activity):DMLP
+Stop Code:Out of BO, Ready Svc
+System Information:
+Mfg Serial:23TL302
+Mfg Model:INSPIRON 5447
+Special Instructions:
+View Special Instructions and/or Retrieve Associated Documents
+Activities:
+Product Ref: NDQ	Qty: 1	Product Descr: Avg Repair: 1.29 
+Qty:
+Part #: 9JVCD	Qty: 1	Part Descr: Line: 1 Waybill: See Comments for waybill
+Comments:
+06/10/2015 5:06 PM
+ELECTRONIC CUSTOMER ORDER ENTRY. 
+Original zip received from customer: 53703 
+Secondary customer name: WWTS 
+Entitlement: 
+COV CODE: DMLP, 10x5-ND M-F 0800-1800 Next Day 
+Resp 
+Serial # sent by cust: 23TL302 
+THIS IS A REPEAT CALL, #2. LAST WO# WP06083776 
+Alternate Contact 1stPhone: 6086424313 
+Call put in SC status 
+ETA set to 06/11/15 1800. 
+Audit:WOHDR/UPDATE/0. Action Group changed from t o DEFER 
+SHIPTO ADDRESS: Worldwide TechServices Technician Worldwide TechServices HFPU 
+3700 Kinsman Boulevard 
+Madison, WI 53704 US 
+QXS SHIPKEY: 370 
+Modelnum - 4445:002 replaced with part file 
+description 
+Call taken out of SC status 
+Call put in BO status 
+CUSTOMER REMARKS: Inspiron 14 5000 Series 
+Alternate Contact: Andressa Souza 
+PROBLEM DESCRIPTION: Palmrest not clipping in, 
+Replaced bottom cover. 
+END PROBLEM DESCRIPTION 
+Palmrest not clipping in, Replaced bottom cover. 
+Entitlement: NDQ 
+ASDS RECEIVE DATE AND TIME 20150610 1806 
+PART ORDER OPEN on call for 1 part(s) 
+
+
+06/10/2015 8:08 PM
+Shipped: PRIORITY OVERNIGHT FEDEX 641546580724 
+1 part 9JVCD shipped. 
+ALL PARTS HAVE TRAFFIC INFO. CHANGING STATUS TO 
+ASSIGNED 
+STCD-NEW: Out of BO, Ready for Service, ETA: 
+06/11/15 18:00 
+Call taken out of BO status 
+
+06/11/2015 2:13 AM
+CSR assigned from territory T328Madis1 
+Current skills required: ID3175 
+CSR 12712 assigned via NBD Assign Process 
+
+06/11/2015 7:26 AM
+Stopcode:14 sent without new ETA. ETA: 06/11/15 
+1800 not changed or in the past 

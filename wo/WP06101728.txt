@@ -1,0 +1,105 @@
+Customer Information:
+Name:International Business MachinesCorp   Account Number: IBM   Vendor Number: 
+Workorder: WP06101728 SITE CODE: CQLKFTR
+CAD #: CQLKFTR
+Customer Address:    Map it (Google)
+WI DEPT JUSTICE
+17 W. MAIN ST
+5TH FL
+MADISON, WI 53703    Gas and Traffic
+Contact Name: JEFF CHRISTIAN 
+Contact Phone: 6085560335
+Service Information:
+Region: X3000 - Area: X3100 - District: X3120 - Branch: 328
+Employee #: 12712
+Empl. Name: Weiner, Joseph (F2)
+
+Call Dates:
+Received: 2015-06-10 14:07:00.0
+ETA: 2015-06-11 18:00:00.0
+Accepted: 2015-06-11 07:26:00.0
+Deferred: 2015-06-11 17:00:00.0
+Dispatched: 2015-06-11 07:26:00.0
+Last Call Closed for this Site: WP06092388
+Service Window Start: 2015-06-11 08:00:00.0
+Service Window End: 2015-06-11 18:00:00.0
+Call Codes:
+Status:DS 
+Type (Activity):NDMB
+Stop Code:Just Go Call
+System Information:
+Mfg Serial:LR36WAV
+Mfg Model:0585-W17
+Special Instructions:
+View Special Instructions and/or Retrieve Associated Documents
+Activities:
+Product Ref: MOB	Qty: 1	Product Descr: Avg Repair: 0.92 
+Qty:
+Part #: IBMRED0075Y4004	Qty: 1	Part Descr: Line: 2 Waybill: 1Z97E05X0194311716 
+Comments:
+06/10/2015 2:07 PM
+ELECTRONIC CUSTOMER ORDER ENTRY. 
+Secondary customer name: WI DEPT JUSTICE 
+Entitlement: 
+COV CODE: NDMB, 9x5-ND M-F 0800-1700 Next Day Resp Serial # sent by cust: LR36WAV 
+THIS IS A REPEAT CALL, #2. LAST WO# WP06092388 
+was closed 0 days ago 
+by 11524-AVAIL 
+This workorder is linked to WO# WP06092388 
+IBM TARGETED ARRIVAL: 06/11/15 AT 17:00 
+ETA set to 06/11/15 1700. 
+Call put in BO status 
+ASDS RECEIVE DATE AND TIME 20150610 1507 
+Audit:WOHDR/UPDATE/0. Action Group changed from t o PRIORITY 
+CREATED FROM PRIOR WORK ORDER : WP06092388 
+PRIOR WORK ORDER'S CSR : 11524 - Herr, Zhongpeng 
+(F2) 
+P/S: -- CUSTOMER INFORMATION -- MANDATORY!UPDATE 
+BIOS WHEN> PLANAR REPLACED-USE LATEST> VERSION OF 'MAINTXXX.ISO' > TO RESTORE SN & ASSIGN UUID 
+LOC=5TH FL 0585 LR36WAV HAS IBM ONSITE SVC COVERED BY A WARRANTY UPGRADE 
+
+06/10/2015 2:08 PM
+*** SEE SPECIAL INSTRUCTIONS *** 
+*** Please review the linked document - 
+*** If you fail to reach the customer, 3 calls 
+must be made to the customer each day for 3 days, the expectation is 2 calls will be made before 
+12PM (noon) and a final attempt before 2PM. It is imperative each attempt must be recorded in the 
+service call. *** 
+Insure you review Lenovo take apart videos prior 
+to servicing the equipment @ 
+http://servicemobile.lenovo.partner-management.com these can also be viewed by your mobile phone. 
+Customer requested service ETA change. Customer 
+message 'Delayed until:(TT) 2015/06/11 17:00' 
+New ETA 
+No Parts ETA 
+PARTS SHIPPED TO: UPS HOLD FOR PICKUP 
+ATTN WORLDWIDE TECH SRVS TECH 5002 PFLAUM RD 
+MADISON WI 53718 
+
+06/10/2015 5:12 PM
+Parts ETA: 06/11/15 08.30 
+UPS HOLD FOR PICKUP ATTN WORLDWIDE 
+TECH SRVS TECH 5002 PFLAUM RD 
+MADISON WI 53718 
+Customer changed part line #2 WAYBILL from to 1Z97E05X0194311716 
+Customer changed part line #2 CARRIER from to UNITED PARCEL SERVIC 
+Part Line:2 - Waybill# 1Z97E05X0194311716 - 
+Carrier - UNITED PARCEL SERVIC 
+ALL PARTS HAVE TRAFFIC INFO. CHANGING STATUS TO 
+ASSIGNED 
+STCD-NEW: Out of BO, Ready for Service, ETA: 
+06/11/15 17:00 
+Call taken out of BO status 
+
+06/11/2015 2:07 AM
+CSR assigned from territory T328Madis1 
+Current skills required: IBMCSBC2009C,IBMRTD07C 
+CSR 60133 assigned via NBD Assign Process 
+
+06/11/2015 5:42 AM
+ETA set to 06/11/15 1800. 
+STCD-NEW: Just Go Call, ETA: 06/11/15 18:00 
+
+06/11/2015 7:15 AM
+CSR Skill Requirement Overridden 
+Call reassigned from 60133 to 12712. 
